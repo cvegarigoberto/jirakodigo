@@ -1,3 +1,7 @@
+Edwin Laureano Paz Juarez
+Rigoberto Campos Vega
+Oscar alejando Ardon
+
 🧾 TaskManager — README Técnico
 📌 Descripción General
 TaskManager es una aplicación web para la gestión de proyectos y tareas, diseñada con arquitectura modular y roles diferenciados. Utiliza Spring Boot, Thymeleaf, y una base de datos relacional para manejar usuarios, roles, proyectos y tareas con visibilidad controlada.
