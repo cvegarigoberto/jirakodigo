@@ -1,0 +1,61 @@
+/* === Fondo general y texto === */
+body {
+    background-color: #0C0C0C; /* Negro profundo */
+    color: #FFFFFF;            /* Texto blanco para contraste */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* === Tarjetas (login y dashboard) === */
+.card {
+    background-color: #1A1A1A; /* Gris oscuro */
+    border: none;
+    color: #FFFFFF;
+}
+
+/* === Etiquetas de formularios === */
+.form-label {
+    color: #FFFFFF;
+}
+
+/* === Campos de entrada === */
+.form-control {
+    background-color: #0C0C0C;
+    color: #FFFFFF;
+    border: 1px solid #6C3483; /* Morado oscuro */
+}
+
+.form-control::placeholder {
+    color: #AAAAAA;
+}
+
+/* === Botón de login y acciones === */
+.btn-login,
+.btn-primary {
+    background-color: #6C3483; /* Morado oscuro */
+    color: #FFFFFF;
+    font-weight: bold;
+    border: none;
+}
+
+.btn-login:hover,
+.btn-primary:hover {
+    background-color: #884EA0; /* Morado más claro al hacer hover */
+    color: #FFFFFF;
+}
+
+/* === Barra de navegación === */
+.navbar {
+    background-color: #1A1A1A;
+}
+
+.navbar-brand {
+    color: #00E0FF; /* Cyan brillante */
+    font-weight: bold;
+}
+
+/* === Alertas de error === */
+.alert-danger {
+    background-color: #B03A2E; /* Rojo oscuro sobrio */
+    border: none;
+    color: #FFFFFF;
+}
